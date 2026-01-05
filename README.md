@@ -17,6 +17,7 @@ This code is not perfect, but it is better than *my* alternative which included 
     - Include graphs to the jupyter notebook.
 - Add support for different languages
     - Develop a list of IoC values for different languages. 
-    - Add language libraries: Language, alphabet, IoC value.  
+    - Add language libraries: Language, alphabet, threshold & IoC value.  
 - Add a simplified IoC explanation
 - Add option to not specify language, identify language by IoC value. 
+- Once decoded: Implement AI functionality to identify words and add spaced for readability.
