@@ -92,7 +92,7 @@ with open(encrypted_file, 'r', encoding='utf-8') as file:
 #print(ciphertext)          # Debugging
 
 
-# Rub the function
+# Run the function
 ioc_values = np.zeros(max_key_length)
 ioc_detected = False
 
